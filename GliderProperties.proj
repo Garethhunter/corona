@@ -1,0 +1,64 @@
+{
+  "configs" : [ {
+    "excludedFiles" : [ ],
+    "config_name" : "default",
+    "plugin_props" : {
+      "corona" : {
+        "panelStorage" : {
+        }
+      }
+    },
+    "autolibs" : [ ],
+    "extlibs" : [ ],
+    "fileAlias" : {
+    },
+    "sdkselect" : "corona",
+    "codeInsertion" : "",
+    "filePatternExclusionKey" : "GliderProperties.proj, .git, .svn, .tmp, GliderGenerated.gproj"
+  }, {
+    "excludedFiles" : [ ],
+    "config_name" : "default",
+    "plugin_props" : {
+      "corona" : {
+        "panelStorage" : {
+        }
+      }
+    },
+    "autolibs" : [ ],
+    "extlibs" : [ ],
+    "fileAlias" : {
+    },
+    "sdkselect" : "corona",
+    "codeInsertion" : "",
+    "filePatternExclusionKey" : "GliderProperties.proj, .git, .svn, .tmp, GliderGenerated.gproj"
+  }, {
+    "excludedFiles" : [ ],
+    "config_name" : "defaultb",
+    "plugin_props" : {
+      "corona" : {
+        "panelStorage" : {
+        }
+      }
+    },
+    "autolibs" : [ ],
+    "extlibs" : [ ],
+    "fileAlias" : {
+    },
+    "sdkselect" : "track_selection",
+    "codeInsertion" : "",
+    "filePatternExclusionKey" : "GliderProperties.proj, .git, .svn, .tmp, GliderGenerated.gproj"
+  } ],
+  "project_wide_config" : {
+    "excludedFiles" : [ ],
+    "config_name" : "default",
+    "plugin_props" : {
+    },
+    "autolibs" : [ ],
+    "extlibs" : [ ],
+    "fileAlias" : {
+    },
+    "sdkselect" : "track_selection"
+  },
+  "selected_config" : 1,
+  "ver" : 4
+}
