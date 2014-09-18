@@ -1,18 +1,5 @@
 
 
---[[
-----------------------------------------------------------------
-MODULE FOR CORONA SDK
-----------------------------------------------------------------
-PRODUCT  :              MOBILE DEVELOPMENT ASSIGMENT
-----------------------------------------------------------------
-USAGE:  data driven handler read default info from files or creates them
-----------------------------------------------------------------
-
- 
-----------------------------------------------------------------
-]]--
-
 -- if the files param do not exist use defaults else 
 -- load the defaults
 -- to set up the data driven context
